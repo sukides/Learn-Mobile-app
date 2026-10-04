@@ -1,0 +1,1 @@
+perbaikan pada fungsi if menggunakan if ternary
